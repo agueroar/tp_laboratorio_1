@@ -42,6 +42,7 @@ int main()
                 scanf("%f",&b);
             }
         }
+
         switch(opcion)
         {
 

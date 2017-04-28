@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1493349002 source:c:\users\ariel\desktop\tp_laboratorio_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1493348220 source:c:\users\ariel\desktop\tp_laboratorio_2\abm.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+

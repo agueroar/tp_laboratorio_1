@@ -4,7 +4,7 @@
 #include <conio.h>
 #include <ctype.h>
 
-#define C 5
+#define C 20
 
 
 

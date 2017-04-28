@@ -6,9 +6,6 @@
 
 #define C 20
 
-
-
-
 typedef struct
 {
     char nombre[40];
@@ -76,7 +73,6 @@ int main()
                         {
                             E19a35++;
                         }
-
                         else{
                             mayorA35++;
                             }
@@ -213,7 +209,6 @@ int main()
             break;
         }
     }
-
     return 0;
 }
 

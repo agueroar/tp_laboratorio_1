@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1491575197 source:c:\users\ariel\documents\github\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tp_laboratorio_1.h"
+
+1491454376 c:\users\ariel\documents\github\tp_laboratorio_1\tp_laboratorio_1.h
+
+1491450734 source:c:\users\ariel\documents\github\tp_laboratorio_1\tp_laboratorio_1.c
+
+1491457517 source:c:\users\ariel\desktop\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tp_laboratorio_1.h"
+
+1491454376 c:\users\ariel\desktop\tp_laboratorio_1\tp_laboratorio_1.h
+
+1491450734 source:c:\users\ariel\desktop\tp_laboratorio_1\tp_laboratorio_1.c
+
+1491450734 source:c:\users\ariel\documents\tp_laboratorio_1\tp_laboratorio_1.c
+
+1491571502 source:c:\users\ariel\documents\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tp_laboratorio_1.h"
+
+1491454376 c:\users\ariel\documents\tp_laboratorio_1\tp_laboratorio_1.h
+
+1491575197 source:c:\users\ariel\documents\github\tp_laboratorio_1\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tp_laboratorio_1.h"
+
+1491454376 c:\users\ariel\documents\github\tp_laboratorio_1\tp_laboratorio_1\tp_laboratorio_1.h
+
+1491450734 source:c:\users\ariel\documents\github\tp_laboratorio_1\tp_laboratorio_1\tp_laboratorio_1.c
+

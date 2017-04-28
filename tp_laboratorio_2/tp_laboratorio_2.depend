@@ -1,15 +1,18 @@
 # depslib dependency file v1.0
-1493352579 source:c:\users\ariel\desktop\tp_laboratorio_2\main.c
+1493354413 source:c:\users\ariel\desktop\tp_laboratorio_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"abm.h"
+
+1493354365 source:c:\users\ariel\desktop\tp_laboratorio_2\abm.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 	<conio.h>
 	<ctype.h>
 
-1493353854 source:c:\users\ariel\desktop\tp_laboratorio_2\abm.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-	<conio.h>
-	<ctype.h>
+1493346189 c:\users\ariel\desktop\tp_laboratorio_2\abm.h
 
